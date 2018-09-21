@@ -1,0 +1,28 @@
+_repo: Journal-d-un-bourgeois-de-Paris-1405-1449_54182
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Tuetey, Alexandre
+    birthdate: 1842
+    deathdate: 1918
+    gutenberg_agent_id: '47750'
+    url: http://www.gutenberg.org/2009/agents/47750
+description: ''
+gutenberg_bookshelf: FR Chroniques
+gutenberg_issued: '2017-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54182'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- History -- To 1515'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Charles VII, 1422-1461'
+- !lcsh 'Hundred Years'' War, 1339-1453'
+- !lcsh 'France -- History -- Charles VI, 1380-1422'
+- GITenberg
+title: Journal d'un bourgeois de Paris, 1405-1449
+url: http://www.gutenberg.org/ebooks/54182
