@@ -1,5 +1,8 @@
 _repo: Journal-d-un-bourgeois-de-Paris-1405-1449_54182
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54182-h/images/cover.jpg
 creator:
   editor:
     agent_name: Tuetey, Alexandre
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47750'
     url: http://www.gutenberg.org/2009/agents/47750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54182#Journal-d-un-bourgeois-de-Paris-1405-1449
 gutenberg_bookshelf: FR Chroniques
 gutenberg_issued: '2017-02-17'
 gutenberg_type: Text
